@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{2F22C618-BF76-4452-AE4A-D45A25B2F5A1}|Default">
+  <MonoDevelop.Ide.ItemProperties.ReactBooksAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReactBooksAPI/appsettings.json">
+    <Files>
+      <File FileName="ReactBooksAPI/ClientApp/src/App.js" Line="17" Column="4" />
+      <File FileName="ReactBooksAPI/ClientApp/src/components/Layout.js" Line="17" Column="13" />
+      <File FileName="ReactBooksAPI/appsettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ReactBooksAPI" expanded="True">
+            <Node name="ReactBooksAPI" expanded="True">
+              <Node name="ClientApp" expanded="True" />
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
